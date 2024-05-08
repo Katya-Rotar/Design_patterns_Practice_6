@@ -8,11 +8,22 @@ public class Employee {
 
     public void raiseSalary(double amount) {
         if (amount > 0) {
-            salary += amount;
+            setSalary(getSalary() + amount);
         }
     }
     public double getSalary() {
         return salary;
     }
-    // Інші методи класу...
+
+    public void setSalary(double salary) {
+        this.salary = salary;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }

@@ -1,6 +1,11 @@
 package Part2.Task_15;
 
 public class Circle extends Shape {
+
+    public Circle(double radius, double width, double height) {
+        super(radius, width, height);
+    }
+
     // Інші поля та методи
     @Override
     public double getArea() {

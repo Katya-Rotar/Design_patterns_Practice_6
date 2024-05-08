@@ -1,15 +1,17 @@
 package Part2.Task_5;
 
-public class CarData {
-    private String[] carNames;
-    private int[] carPrices;
-    private int[] carYears;
+import java.util.ArrayList;
+import java.util.List;
 
-    public CarData(String[] carNames, int[] carPrices, int[] carYears) {
-        this.carNames = carNames;
-        this.carPrices = carPrices;
-        this.carYears = carYears;
+public class CarData {
+    private List<Car> cars;
+
+    public CarData() {
+        this.cars = new ArrayList<>();
     }
 
+    public void addCar(Car car) {
+        cars.add(car);
+    }
     // Додаткові методи для роботи з масивом...
 }

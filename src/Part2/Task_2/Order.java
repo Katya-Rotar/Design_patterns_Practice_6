@@ -1,19 +1,19 @@
 package Part2.Task_2;
 
 public class Order {
-    private String customer;
+    private Customer customer;
     private double amount;
 
     // Конструктор та інші методи класу...
 
-    public Order(String customer, double amount) {
+    public Order(Customer customer, double amount) {
         this.customer = customer;
         this.amount = amount;
     }
-    public String getCustomer() {
+    public Customer getCustomer() {
         return customer;
     }
-    public void setCustomer(String customer) {
+    public void setCustomer(Customer customer) {
         this.customer = customer;
     }
     public double getAmount() {

@@ -7,10 +7,10 @@ public class Product {
 
     // Конструктор та інші методи класу...
 
-    public Product(String name, double price, String currencyCode) {
+    public Product(String name, double price, Currency currency) {
         this.name = name;
         this.price = price;
-        this.currency = new Currency(currencyCode); // Кожний продукт має свій екземпляр валюти
+        this.currency = currency;
     }
     public String getName() {
         return name;
@@ -18,8 +18,8 @@ public class Product {
     public double getPrice() {
         return price;
     }
-    public String getCurrencyCode() {
-        return currency.getCode();
+    public Currency getCurrency() {
+        return currency;
     }
     // Інші методи класу...
 }
