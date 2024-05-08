@@ -1,15 +1,24 @@
 package Part1.MoveField;
 
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 public class Company {
     private List<Employee> employees;
+    private Map<Employee, Double> employeeSalaries;
 
-    // Конструктор та інші методи класу...
+    public Company(List<Employee> employees) {
+        this.employees = employees;
+        this.employeeSalaries = new HashMap<>();
+    }
+    public void setEmployeeSalary(Employee employee, double salary){
+        employeeSalaries.put(employee, salary);
+    }
 
     public void printEmployeeSalaries() {
         for (Employee employee : employees) {
-            System.out.println(employee.getName() + ": " + employee.getSalary());
+            System.out.println(employee.getName() + ": " + employeeSalaries.get(employee));
         }
     }
 }

@@ -6,8 +6,8 @@ public class Employee {
 
     // Конструктор та інші методи класу...
 
-    public String getDepartmentManagerName() {
-        return department.getManagerName();
+    public Department getDepartment(){
+        return department;
     }
 
     public String getName() {

@@ -9,4 +9,9 @@ public class Employee {
     public Department getDepartment() {
         return department;
     }
+
+    // Новий метод, що делегує виклик методу getManager() класу Department
+    public Employee getManager() {
+        return department.getManager();
+    }
 }
