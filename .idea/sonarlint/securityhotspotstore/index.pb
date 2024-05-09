@@ -9,8 +9,6 @@ N
 src/Part2/Task_3/Currency.java,c\7\c79f30944d11183071aa9a6473e146dc72f81d99
 M
 src/Part2/Task_3/Product.java,d\7\d733b46b58c1e9de464901fb11a521a0c1442cd7
-K
-src/Part2/Task_4/Point.java,8\2\829337274d3c9290aee4797404ca580751b6a0ea
 T
 $src/Part2/Task_4/ImmutablePoint.java,5\5\55cff7df2e9ed199f6702742f6d8e133f0620e2a
 M
@@ -69,3 +67,31 @@ S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 ]
 -.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
+J
+src/Part3/Task_1/Task.java,f\a\fa1d800fd6a5f7d18790783363d84cad0192760c
+J
+src/Part3/Task_1/User.java,7\6\76902d1c49e85bfdaece01cbe51e188ddc3e083b
+N
+src/Part3/Task_1/Resource.java,e\0\e000a51930f2d9d7350334162fb7f4943d1152a3
+J
+src/Part3/Task_2/Task.java,f\4\f4314b4cfdaede8ce7532fce043871e2463fe71f
+J
+src/Part3/Task_3/Task.java,d\4\d4014a7031551ee25dd46ef8eaa471c3a8177228
+J
+src/Part3/Task_4/Task.java,8\4\849c33f916ba30da04f9b98435babd67ecb83fd2
+J
+src/Part3/Task_5/Task.java,8\5\8525c9937bee8ee6e4a90cee92c88f47e64b65bf
+J
+src/Part3/Task_6/Task.java,0\c\0c9c287a1c9e70ba4a6996780d14799653a9dac9
+K
+src/Part3/Task_6/Shape.java,0\8\08720a7906a8fd6727bf2d8a7585ef25adccac47
+L
+src/Part3/Task_6/Circle.java,1\0\1001b36ea634bb4969148f8881a4d5d338ed1b2f
+O
+src/Part3/Task_6/Rectangle.java,1\d\1d15240095e4aaefb81c3f206f018019d2dea0f6
+N
+src/Part3/Task_7/Customer.java,4\2\424f8f8bc65af551194916579879849ede42faf8
+M
+src/Part3/Task_7/Address.java,a\c\ac061e066900ab467c4dbc055f301d74858f4723
+J
+src/Part3/Task_8/Task.java,c\b\cb6ac784c32d6213539713027cd24af1586acbf6

@@ -15,5 +15,13 @@ public class Rectangle extends Shape {
     public double getPerimeter() {
         return 2 * (width + height);
     }
+
+    public double getLength() {
+        return 0.0;
+    }
+
+    public double getWidth() {
+        return 0.0;
+    }
 }
 
