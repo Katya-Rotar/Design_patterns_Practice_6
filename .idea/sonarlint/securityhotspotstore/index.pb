@@ -95,3 +95,5 @@ M
 src/Part3/Task_7/Address.java,a\c\ac061e066900ab467c4dbc055f301d74858f4723
 J
 src/Part3/Task_8/Task.java,c\b\cb6ac784c32d6213539713027cd24af1586acbf6
+Q
+!src/Part3/Task_7/NullAddress.java,e\5\e56f0f90bf15ba4e336a46f86f691c7191649dbb
