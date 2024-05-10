@@ -1,13 +1,10 @@
 package Part4.Task_6;
 
 public class Printer {
-    public void printDocument(String type, String content) {
-        if ("text".equals(type)) {
-            System.out.println("Printing text document: " + content);
-        } else if ("image".equals(type)) {
-            System.out.println("Printing image document: " + content);
-        } else {
-            System.out.println("Unknown document type: " + type);
-        }
+    public void printTextDocument(String content){
+        System.out.println("Printing text document: " + content);
+    }
+    public void printImageDocument(String content) {
+        System.out.println("Printing image document: " + content);
     }
 }

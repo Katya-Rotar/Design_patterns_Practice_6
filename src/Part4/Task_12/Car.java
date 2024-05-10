@@ -10,8 +10,11 @@ public class Car {
         this.model = model;
         this.year = year;
         this.color = color;
-        // Додаткові дії, такі як реєстрація автомобіля
-        registerCar();
+    }
+    public static Car createCar(String brand, String model, int year, String color){
+        Car car = new Car(brand, model, year,color);
+        car.registerCar();
+        return car;
     }
     private void registerCar() {
         // Логіка реєстрації автомобіля

@@ -133,3 +133,5 @@ K
 src/Part4/Task_11/Task.java,3\c\3ca093a91cd38d3199c80a6c1b0a7d12c5c926b3
 [
 +src/Part4/Task_14/TemperatureConverter.java,4\b\4b1acf82561b1b97ed6ae7e1445356a684390385
+N
+src/Part4/Task_11/MyClass.java,4\3\43d33025a561a9df69b7959709d5b8ce0b63ab70
