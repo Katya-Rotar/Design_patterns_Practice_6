@@ -97,8 +97,6 @@ J
 src/Part3/Task_8/Task.java,c\b\cb6ac784c32d6213539713027cd24af1586acbf6
 Q
 !src/Part3/Task_7/NullAddress.java,e\5\e56f0f90bf15ba4e336a46f86f691c7191649dbb
-J
-src/Part4/Task_1/Task.java,1\7\171b2d80149893db71042bd8fc8e43859e3e399a
 P
  src/Part4/Task_1/Calculator.java,8\0\802140b52ddd6e08f26f1622d3ebfc4a40c2c3d1
 P
@@ -129,8 +127,6 @@ J
 src/Part4/Task_12/Car.java,9\f\9f403d93ec4f8be3c19470a8d2912d04e3f6ea0e
 Q
 !src/Part4/Task_13/Calculator.java,3\7\375eb837adcd685986e20e08a48d2dcfa925a7db
-K
-src/Part4/Task_11/Task.java,3\c\3ca093a91cd38d3199c80a6c1b0a7d12c5c926b3
 [
 +src/Part4/Task_14/TemperatureConverter.java,4\b\4b1acf82561b1b97ed6ae7e1445356a684390385
 N
@@ -193,3 +189,11 @@ N
 src/Part5/Task_12/Printer.java,2\0\201de2e784b6d4d2c3fd9cfa618d6b14ac16c81c
 T
 $src/Part5/Task_12/SecurePrinter.java,a\0\a0e093bed34a573c28bd350ef278b7065c0caa1b
+K
+src/Part5/Task_6/Fruit.java,2\c\2c3fe44d7ecee2fa06d93209a4f2f738d1a2ad50
+K
+src/Part5/Task_6/Apple.java,d\d\ddd28b0afc7e45cb4cc5a62a9b21f2f113677dca
+L
+src/Part5/Task_7/Person.java,8\6\8681cbc0ace8d0d4de51fc6aa51074d9fa1b4e1d
+K
+src/Part5/Task_8/Shape.java,d\7\d7fa396603c0c45542dff8de4520646bea01aaef

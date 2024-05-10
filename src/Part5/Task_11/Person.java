@@ -6,6 +6,7 @@ class Person {
     public Person(Animal animal) {
         this.animal = animal;
     }
+
     void interactWithAnimal() {
         animal.eat();
         animal.sleep();
