@@ -97,3 +97,39 @@ J
 src/Part3/Task_8/Task.java,c\b\cb6ac784c32d6213539713027cd24af1586acbf6
 Q
 !src/Part3/Task_7/NullAddress.java,e\5\e56f0f90bf15ba4e336a46f86f691c7191649dbb
+J
+src/Part4/Task_1/Task.java,1\7\171b2d80149893db71042bd8fc8e43859e3e399a
+P
+ src/Part4/Task_1/Calculator.java,8\0\802140b52ddd6e08f26f1622d3ebfc4a40c2c3d1
+P
+ src/Part4/Task_2/Calculator.java,c\0\c0c251be5118ccab9430ec46bda7fc38f0618fcb
+P
+ src/Part4/Task_3/Calculator.java,3\b\3b370d395355ad49004076dc609230cbc981b27d
+M
+src/Part4/Task_4/Account.java,7\e\7e48c29505f32c81a628ce0118b487c050ed2497
+P
+ src/Part4/Task_5/Calculator.java,6\0\60d866b8e327531038083d7e5b51fe83e7f431e0
+M
+src/Part4/Task_6/Printer.java,c\d\cd6c69c1ee81724924d593e5de0a50c34e5a9644
+L
+src/Part4/Task_7/Person.java,b\c\bc05cf877abc0fff57262d05e8917600afbc409a
+S
+#src/Part4/Task_7/ProcessPerson.java,1\d\1dca6cfc160f488f66937aed16c7038db0573cf7
+P
+ src/Part4/Task_8/Calculator.java,5\2\529effe2f75b17c4acc7b3bc322328caeddca452
+O
+src/Part4/Task_8/Processor.java,5\e\5effe079d0097278944f466d75d4d4280961a953
+J
+src/Part4/Task_9/User.java,e\9\e9c3904a3259bb3bf892310b7d14613463fbd0f0
+Q
+!src/Part4/Task_9/UserManager.java,1\4\14eaa9a3887a6c81825c06cad562b04fa64827c3
+M
+src/Part4/Task_10/Person.java,6\8\68b99169f99e24a64f4e0ed550663517a2cd06c2
+J
+src/Part4/Task_12/Car.java,9\f\9f403d93ec4f8be3c19470a8d2912d04e3f6ea0e
+Q
+!src/Part4/Task_13/Calculator.java,3\7\375eb837adcd685986e20e08a48d2dcfa925a7db
+K
+src/Part4/Task_11/Task.java,3\c\3ca093a91cd38d3199c80a6c1b0a7d12c5c926b3
+[
++src/Part4/Task_14/TemperatureConverter.java,4\b\4b1acf82561b1b97ed6ae7e1445356a684390385
